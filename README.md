@@ -6,7 +6,7 @@ This project analyzes TikTok data.
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone git@github.com:karenwanjangugi/tiktok-likes-predictor.git
     cd tiktok-sql
     ```
 
